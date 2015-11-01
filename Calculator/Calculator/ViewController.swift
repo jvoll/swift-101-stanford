@@ -23,7 +23,7 @@ class ViewController: UIViewController {
             currentlyEnteringNumbers = true
         }
 
-        println("number pressed = \(digit)")
+        print("number pressed = \(digit)")
         
         
     }

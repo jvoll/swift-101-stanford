@@ -168,6 +168,8 @@
 		969CD78D1BE6811B0018D18D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0710;
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "Jason Voll";
 				TargetAttributes = {
@@ -427,6 +429,7 @@
 				969CD7B61BE6811C0018D18D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		969CD7B71BE6811C0018D18D /* Build configuration list for PBXNativeTarget "PsychologistTests" */ = {
 			isa = XCConfigurationList;
@@ -435,6 +438,7 @@
 				969CD7B91BE6811C0018D18D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
